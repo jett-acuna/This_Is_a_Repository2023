@@ -2,7 +2,7 @@
 ### This is a test repository for RICE Bootcamp 2023
 ---
 ## These are Questions
-###-I am Jett Acuna and I was born in Modesto California but I now live in Missouri :(
+-I am Jett Acuna and I was born in Modesto California but I now live in Missouri :(
 
 -My career goals are to have a good network and a good foundation for my kids to work off of
 
